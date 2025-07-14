@@ -55,11 +55,11 @@ This project presents an exploratory data analysis (EDA) of a weather dataset us
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/weather-data-analysis.git
+   git clone https://github.com/Saad-learning/weather-data-analysis.git
    ```
 2. Place your dataset at the specified path or update the path in the notebook:
    ```python
-   data = pd.read_csv('file.csv')
+   data = pd.read_csv(r'F:\Porfolio Project\Python\Weather\file.csv)
    ```
 3. Run the `Weather_analysis.ipynb` notebook in Jupyter.
 
